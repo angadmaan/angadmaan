@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=calibri&weight=500&size=22&pause=1000&color=2f81f7&center=true&vCenter=true&width=650&height=44&lines=Cloud%20Security%20%E2%80%A2%20DevOps%20%E2%80%A2%20Linux%20%E2%80%A2%20Python;Every%20Repository%20Tells%20a%20Story" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=calibri&weight=500&size=22&pause=1000&color=2f81f7&center=true&vCenter=true&width=650&height=44&lines=Cloud%20Security%20%E2%80%A2%20DevSecOps%20%E2%80%A2%20Linux%20%E2%80%A2%20Python;Every%20Repository%20Tells%20a%20Story" alt="Typing headlines" />
 </p>
 
 
